@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "790253247616",
+    "project_id": "fir-petuk",
+    "storage_bucket": "fir-petuk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790253247616:android:e695f135bb198d55dc5a65",
+        "android_client_info": {
+          "package_name": "com.ankur.firebasepetuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790253247616-rlf4dpm5uece4ki46flkqqt5964a88no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlOhN0vDmTFG5ZO8P_RnIKUZTNHqvNbQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790253247616-rlf4dpm5uece4ki46flkqqt5964a88no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790253247616:android:b1f71a447027249bdc5a65",
+        "android_client_info": {
+          "package_name": "com.ankur.petukrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790253247616-rlf4dpm5uece4ki46flkqqt5964a88no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlOhN0vDmTFG5ZO8P_RnIKUZTNHqvNbQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790253247616-rlf4dpm5uece4ki46flkqqt5964a88no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
